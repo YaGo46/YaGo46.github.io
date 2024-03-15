@@ -1,5 +1,0 @@
-.lw { font-size: 40px; color:red}
-
-.productstable, th, td {
-  border: 2px solid black; /* Establece un borde sólido de 1px de ancho y color negro para la tabla, encabezados de columna y celdas */
-}
